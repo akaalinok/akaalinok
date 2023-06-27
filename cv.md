@@ -1,1 +1,1 @@
-feat:add.cv.md file
+feat: add cv.md file
